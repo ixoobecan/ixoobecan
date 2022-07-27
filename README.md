@@ -15,7 +15,7 @@
   <img align="center" alt="Sami-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-   <img align="right" alt="Bea-pic2" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/996751965138714695/1001953589469663282/unknown.png?width=340&height=427">
+
 </div>
   
   ##
@@ -27,3 +27,7 @@
   
  
 </div>
+  #
+<div>
+    <img align="center" alt="Sami-pic2" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/996751965138714695/1001953589469663282/unknown.png?width=340&height=427">
+  </div>

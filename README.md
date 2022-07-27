@@ -1,8 +1,8 @@
 ### Oie Sou Samira Ixoobecan 👋
 <div align="center">
   <a href="https://github.com/ixoobecan">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=ixoobecan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixoobecan&layout=compact&langs_count=7&theme=buefy"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ixoobecan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixoobecan&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sami-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

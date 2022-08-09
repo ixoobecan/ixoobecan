@@ -1,6 +1,6 @@
 ### Oie Sou Samira Ixoobecan 👋
 
-- 🎨 Designer 
+- 🎨 UX Designer 
 - 🤳 Antenada
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
 

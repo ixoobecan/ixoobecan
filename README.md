@@ -15,7 +15,7 @@
   <img align="center" alt="Sami-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Sami-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Sami-pic2" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/958425076565409815/1001958722265956432/unknown.png">
+  <img align="right" alt="Sami-pic2" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1006617180059730032/1006617510298259596/unknown.png?width=320&height=427">
 
 </div>
   

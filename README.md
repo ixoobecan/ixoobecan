@@ -3,6 +3,7 @@
 - 🎨 UX Designer 
 - 🤳 Antenada
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
+- 🍀 Estou estudando C#, HTML, CSS, Java Script, SQL.
 
 #
 

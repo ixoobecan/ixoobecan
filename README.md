@@ -1,11 +1,10 @@
 ### Oie Sou Samira Ixoobecan 👋
 
-- 🎨 Desenvolvedora com formação em Design
+- 🎨 Desenvolvedora back end com formação em Design
 - 🤳 Antenada
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
-- 🍀 C#, HTML, CSS, Java Script, SQL
+- 🍀 C#, HTML, CSS, Javascript
 - 🕶  Sigo estudando Java e coreano
-- ✨ Mãe do João
 
 #
 

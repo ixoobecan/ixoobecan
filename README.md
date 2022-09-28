@@ -5,6 +5,7 @@
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
 - 🍀 C#, HTML, CSS, Javascript
 - 🕶  Sigo estudando Java e coreano
+- 📱  (11) 93041-7742
 
 #
 

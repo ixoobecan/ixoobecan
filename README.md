@@ -3,8 +3,7 @@
 - 🎨 Desenvolvedora back end com formação em Design
 - 🤳 Antenada
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
-- 🍀 C#, HTML, CSS, Javascript
-- 🕶  Sigo estudando Java e coreano
+- 🍀 C#, Java, HTML, CSS, Javascript
 - 📱  (11) 93041-7742
 
 #

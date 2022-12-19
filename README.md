@@ -3,6 +3,7 @@
 - 🎨 Desenvolvedora back end com formação em Design
 - 🤳 Antenada
 - 💻 Aluna do Turma 2 .NET Generetion Brasil
+- 💾 Ciencia de Dados pela Estacio
 - 🍀 C#, Java, HTML, CSS, Javascript
 - 📱  (11) 93041-7742
 
